@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sakibalways" target="blank"><img src="https://img.shields.io/twitter/follow/sakibalways?logo=twitter&style=for-the-badge" alt="sakibalways" /></a> </p>
 
-- 🔭 I’m currently working on **Youtube**
+
 
 - 🌱 I’m currently learning **Javascript**
 
